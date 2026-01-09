@@ -23,7 +23,7 @@ It demonstrates the basics of DevOps:
 ```bash
 git clone https://github.com/Harshithgowda2004/docker-github-project.git
 cd docker-github-project
-
+```
 ---
 
 ## 👨‍💻 Author
