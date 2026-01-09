@@ -30,3 +30,7 @@ cd docker-github-project
 **Harshith R Gowda**  
 Aspiring DevOps & Cloud Engineer
 
+![Docker Build CI](https://github.com/Harshithgowda2004/docker-github-project/actions/workflows/docker-build.yml/badge.svg)
+
+# Dockerized Flask Web App 🚀
+
